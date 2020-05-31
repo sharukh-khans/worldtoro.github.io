@@ -1,0 +1,46 @@
+body  {
+    background-color: gray;
+    background-image:url(images/MUNNA\ PHOTO3.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center;
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+.classa {
+      color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.fontproperty {
+    color: rgba(255, 255, 255, 0.828);    
+    text-align: center;
+    padding-left: 240px;
+    padding-right: 240px;
+    padding-top:10px;
+}
+
+header {
+    background-color:rgba(6, 32, 34, 0.548);
+    height: 100px;
+    
+}
+
+nav {
+    
+    height: 50px;
+}
+
+main {
+   
+    height: 500px;
+}
+
+footer {
+    background-color: rgba(5, 23, 24, 0.431);
+    height: 70px;
+}
